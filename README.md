@@ -19,7 +19,7 @@ Injection molding is a critical process in manufacturing, and the timely detecti
 To get started with AnomEnsemble, clone the repository and install the necessary dependencies:
 
 ```sh
-git clone https://github.com/your-username/AnomEnsemble.git
+git clone https://github.com/MehediBillah/AnomEnsemble.git
 cd AnomEnsemble
 pip install -r requirements.txt
 ```
