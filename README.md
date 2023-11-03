@@ -54,7 +54,7 @@ We welcome contributions that can improve the accuracy, efficiency, and usabilit
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 
